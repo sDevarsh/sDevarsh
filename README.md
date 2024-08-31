@@ -15,14 +15,8 @@
   
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19ihjqD6yJ_y-MefzpdcZGx5FxQH1MsuQ/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devarsh-shingala-4a4649231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarsh-shingala-4a4649231" height="30" width="40" /></a>
-<a href="https://instagram.com/devarsh.shingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devarsh.shingala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shingaladevarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shingaladevarsh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shingaladevarsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shingaladevarsh1" height="30" width="40" /></a>
-</p>
-</p>
+
+
 
 <br/>  
 
@@ -76,17 +70,12 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/sDevarsh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/devarsh-shingala-4a4649231" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/devarsh.shingala" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devarsh-shingala-4a4649231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarsh-shingala-4a4649231" height="30" width="40" /></a>
+<a href="https://instagram.com/devarsh.shingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devarsh.shingala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shingaladevarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shingaladevarsh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shingaladevarsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shingaladevarsh1" height="30" width="40" /></a>
+</p>
   
 
