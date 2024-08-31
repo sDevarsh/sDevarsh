@@ -10,8 +10,17 @@
 - 🌱 I’m currently exploring Devops.  
   
 
-- ❓ Ask me about anything related to Angular, Node.js, Java and related technologies  
+- ❓ Ask me about anything related to Angular, Node.js, Java and related technologies
+
   
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/19ihjqD6yJ_y-MefzpdcZGx5FxQH1MsuQ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devarsh-shingala-4a4649231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarsh-shingala-4a4649231" height="30" width="40" /></a>
+<a href="https://instagram.com/devarsh.shingala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devarsh.shingala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shingaladevarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shingaladevarsh" height="30" width="40" /></a>
+</p>
 
 <br/>  
 
