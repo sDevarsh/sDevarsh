@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Devarsh, a full-stack developer 👨‍💻 Have 1.5+ year of Work Experience in Frontend(Angular) 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Devarsh Shingala</h1>
+<h3 align="center">I am a Full Stack Developer and Have 1.5+ Years of Professional Work Experience in Frontend(Angular).</h3>
 
 - 🔭 I’m currently working on [Placement Portal For our College](https://github.com/sDevarsh/Placement-Portal-Backend)  
   
